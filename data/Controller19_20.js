@@ -1,0 +1,1 @@
+var json_Controller19_20 = {"type":"FeatureCollection","name":"Controller19_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Contr 19":"15_19_1_PR"},"geometry":{"type":"Point","coordinates":[-111.777801372777304,40.396825061541541]}}]}
